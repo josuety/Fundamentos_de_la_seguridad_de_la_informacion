@@ -4,67 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "5cbb8f3fa55b23c8",
+        "id": "5e94d5b69eac739f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ae4eb2f873aecd5",
+            "id": "816cf05d9da244f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "picoCTF/General-skills 2/strings it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "strings it"
             }
           },
           {
-            "id": "8a856c4fa01f58c9",
+            "id": "c0bbe2a2492e65a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General-skills/07 whats a net cat.md",
+                "file": "picoCTF/General-skills 2/Wave a flag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 whats a net cat"
+              "title": "Wave a flag"
             }
           },
           {
-            "id": "e22d2d9b8e5b5906",
+            "id": "9c1e408c94536088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General-skills/08  plumbing.md",
+                "file": "picoCTF/General-skills 2/useless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08  plumbing"
+              "title": "useless"
             }
           },
           {
-            "id": "833904f84fa36527",
+            "id": "abbc2c376dc42859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General-skills/10 Nice netcat..md",
+                "file": "picoCTF/General-skills 2/Tab, Tab, Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Nice netcat."
+              "title": "Tab, Tab, Attack"
+            }
+          },
+          {
+            "id": "714024a8e80fabad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/General-skills 2/First Find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Find"
+            }
+          },
+          {
+            "id": "6f7646483025a51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/General-skills 2/Magikarp Ground Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magikarp Ground Mission"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,6 +133,20 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "e04276ed4df740ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/General-skills 2/strings it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "strings it"
             }
           },
           {
@@ -226,15 +268,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "833904f84fa36527",
+  "active": "6f7646483025a51e",
   "lastOpenFiles": [
-    "picoCTF/General-skills/09 Glitch Cat.md",
-    "picoCTF/General-skills/10 Nice netcat..md",
-    "picoCTF/General-skills/08  plumbing.md",
-    "picoCTF/General-skills/07 whats a net cat.md",
+    "picoCTF/General-skills 2/Bases.md",
+    "picoCTF/General-skills 2/Big zip.md",
+    "picoCTF/General-skills 2/Magikarp Ground Mission.md",
+    "picoCTF/General-skills 2/Wave a flag.md",
+    "picoCTF/General-skills 2/useless.md",
+    "picoCTF/General-skills 2/Tab, Tab, Attack.md",
+    "picoCTF/General-skills 2/strings it.md",
+    "picoCTF/General-skills 2/Static ain't always noise.md",
+    "picoCTF/General-skills 2/First Find.md",
+    "repetitions.md",
     "Plantilla.md",
-    "picoCTF/General-skills/05 First Grep.md",
+    "picoCTF/General-skills/07 whats a net cat.md",
+    "picoCTF/General-skills 2",
+    "picoCTF/General-skills/10 Nice netcat..md",
+    "picoCTF/General-skills/09 Glitch Cat.md",
+    "picoCTF/General-skills/08  plumbing.md",
     "picoCTF/General-skills/06 Obedient Cat.md",
+    "picoCTF/General-skills/05 First Grep.md",
     "picoCTF/General-skills/04 Bases.md",
     "picoCTF/General-skills/03 Warmed Up.md",
     "picoCTF/General-skills/02 2warm.md",
