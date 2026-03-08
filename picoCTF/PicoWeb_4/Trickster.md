@@ -6,12 +6,8 @@ I found a web app that can help process images: PNG images only!
 
 Additional details will be available after launching your challenge instance.
 # Solución
- PENDIENTE
+picoCTF{c3rt!fi3d_Xp3rt_tr1ckst3r_d3ac625b}
 # Notas adicionales
-tuve bastantes problemas sobre las cookies, y demas mi kali dice esto: 
 
-Updating from such a repository can't be done securely, and is therefore disabled by default.
-
-y ando arreglando eso para la competencia no tener problema, lo siento
-
+hice un webshell con la extensión de png y cambie para que considieran los numeros magicos y lo subi al server y de ahi me movi con comandos y en contre un archivo curioso y le hice un cat y ahi estaba la bandera 
 # Referencias
