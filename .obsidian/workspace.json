@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efbb028a9ddcec0d",
+            "id": "e3aa9cbbc61fde9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General-skills/11 permissions.md",
+                "file": "picoCTF/picoCTF - Forensic 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 permissions"
-            }
-          },
-          {
-            "id": "cab1a591944bd618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General-Skills 3/PW Crack 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PW Crack 2"
+              "title": "What Lies Within"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,43 +197,44 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "cab1a591944bd618",
+  "active": "e3aa9cbbc61fde9b",
   "lastOpenFiles": [
+    "picoCTF/picoCTF - Forensic 1/So Meta.md",
+    "picoCTF/picoCTF - Forensic 1/shark on wire 1.md",
+    "picoCTF/picoCTF - Forensic 1/Glory of the Garden.md",
+    "picoCTF/picoCTF - Forensic 1/extensions.md",
+    "picoCTF/picoCTF - Forensic 1/What Lies Within.md",
+    "Plantilla.md",
+    "picoCTF/General-skills/11 permissions.md",
+    "picoCTF/Tarea 2 web/Includes.md",
+    "picoCTF/General-Skills 3/PW Crack 2.md",
+    "Sin nombre 3/desktop.ini",
+    "picoCTF/Tarea 2 web/Power Cookie.md",
+    "Sin nombre 3",
+    "Sin nombre 2",
+    "Sin nombre 1",
+    "Sin nombre",
+    "picoCTF/picoCTF - Forensic 1",
+    "picoCTF/Tarea 2 web/Local Authority.md",
+    "picoCTF/Tarea 2 web/IntroToBurp.md",
+    "picoCTF/Tarea 2 web/Inspect HTML.md",
+    "Blame Game d.md",
+    "picoCTF/Tarea 2 web/WebDecode.md",
+    "picoCTF/Tarea 2 web/SQLiLite.md",
+    "picoCTF/Tarea 2 web/Unminify.md",
+    "picoCTF/Tarea 2 web/Secrets.md",
+    "picoCTF/Tarea 2 web/Roboto Sans.md",
+    "repetitions.md",
+    "picoCTF/Tarea 2 web",
     "picoCTF/PicoWeb_4/Trickster.md",
     "picoCTF/PicoWeb_4/Most Cookies.md",
     "picoCTF/PicoWeb_4/SOAP.md",
     "picoCTF/PicoWeb_4/MatchTheRegex.md",
     "picoCTF/PicoWeb_2/Cookies.md",
-    "Blame Game d.md",
     "picoCTF/PicoWeb_4",
-    "Plantilla.md",
     "picoCTF/picoCTF_1/Client-side-again.md",
-    "picoCTF/PicoWeb_3/JaWT Scratchpad.md",
-    "picoCTF/PicoWeb_3/More SQLi.md",
-    "picoCTF/PicoWeb_3/Irish-Name-Repo 1.md",
     "picoCTF/PicoWeb_3",
-    "picoCTF/picoCTF_1/picobrowser.md",
-    "picoCTF/picoCTF_1/logon.md",
-    "picoCTF/picoCTF_1/dont-use-client-side.md",
-    "picoCTF/picoCTF_1/where are the robots.md",
-    "picoCTF/picoCTF_1/Insp3ct0r.md",
     "picoCTF/picoCTF_1",
-    "picoCTF/General-skills/19 ASCII Numbers.md",
-    "picoCTF/PicoWeb_2/GET aHEAD.md",
-    "picoCTF/PicoWeb_2/Scavenger Hunt.md",
-    "repetitions.md",
-    "picoCTF/General-skills/18 Binary Search.md",
-    "picoCTF/PicoWeb_2",
-    "picoCTF/General-skills/17 Collaborative Development.md",
-    "picoCTF/General-skills/16 Blame Game.md",
-    "picoCTF/General-skills/14 Commitment Issues.md",
-    "picoCTF/General-skills/15 Time Machine.md",
-    "picoCTF/General-Skills 3",
-    "picoCTF/General-skills 2",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Plantilla",
-    "picoCTF/General-skills",
-    "picoCTF"
+    "Untitled.canvas"
   ]
 }
