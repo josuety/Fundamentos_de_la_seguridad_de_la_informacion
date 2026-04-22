@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15dce5bfadf4bc4b",
+        "id": "9007045859dfd177",
         "type": "tabs",
         "children": [
           {
-            "id": "91132efec89f1b64",
+            "id": "f832b3172cb30737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Criptografia/b00tl3gRSA2.md",
+                "file": "picoCTF/Criptografia/flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA2"
-            }
-          },
-          {
-            "id": "2bf626427a2c482a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Criptografia/b00tl3gRSA3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "b00tl3gRSA3"
+              "title": "flags"
             }
           }
         ]
@@ -211,12 +197,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "91132efec89f1b64",
+  "active": "f832b3172cb30737",
   "lastOpenFiles": [
+    "picoCTF/Criptografia/ReadMyCert.md",
+    "picoCTF/Criptografia/HideToSee.md",
+    "picoCTF/Criptografia/flags.md",
+    "picoCTF/Criptografia/basic-mod1.md",
+    "picoCTF/Criptografia/Pixelated.md",
+    "Plantilla.md",
     "picoCTF/Criptografia/b00tl3gRSA3.md",
     "picoCTF/Criptografia/b00tl3gRSA2.md",
     "picoCTF/Criptografia/Mind your Ps and Qs.md",
-    "Plantilla.md",
     "picoCTF/Criptografia/Mini RSA.md",
     "picoCTF/Criptografia/interencdec.md",
     "picoCTF/Criptografia/rsa pop quiz (exp.py).md",
@@ -235,12 +226,7 @@
     "picoCTF/picoCTF - Forensic 4/Sleuthkit Apprentice.md",
     "picoCTF/picoCTF - Forensic 4/Sleuthkit Intro.md",
     "picoCTF/picoCTF - Forensic 4/Disk, disk, sleuth!.md",
-    "picoCTF/picoCTF - Forensic 4/Milkslap.md",
     "picoCTF/picoCTF - Forensic 4",
-    "Blame Game d.md",
-    "README.md",
-    "picoCTF/Concurso_picoCTF_2026_/Piece by Piece.md",
-    "picoCTF/Forensic_parte_3/MacroHard WeakEdge.md",
     "picoCTF/Forensic_parte_3",
     "Sin nombre/desktop.ini",
     "Sin nombre 1",
