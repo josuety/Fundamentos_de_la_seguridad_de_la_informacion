@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f832b3172cb30737",
+            "id": "82e0e9fd6cce1dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Criptografia/flags.md",
+                "file": "picoCTF/REVERSING/vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags"
+              "title": "vault-door-5"
             }
           }
         ]
@@ -197,14 +197,22 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "f832b3172cb30737",
+  "active": "82e0e9fd6cce1dc1",
   "lastOpenFiles": [
+    "picoCTF/REVERSING/vault-door-4.md",
+    "picoCTF/REVERSING/vault-door-5.md",
+    "picoCTF/REVERSING/vault-door-3.md",
+    "picoCTF/REVERSING/vault-door-1.md",
+    "picoCTF/REVERSING/vault-door-training.md",
+    "picoCTF/Criptografia/flags.md",
+    "Plantilla.md",
+    "picoCTF/REVERSING/vault-door-training/desktop.ini",
+    "picoCTF/REVERSING/vault-door-training",
+    "picoCTF/REVERSING",
     "picoCTF/Criptografia/ReadMyCert.md",
     "picoCTF/Criptografia/HideToSee.md",
-    "picoCTF/Criptografia/flags.md",
     "picoCTF/Criptografia/basic-mod1.md",
     "picoCTF/Criptografia/Pixelated.md",
-    "Plantilla.md",
     "picoCTF/Criptografia/b00tl3gRSA3.md",
     "picoCTF/Criptografia/b00tl3gRSA2.md",
     "picoCTF/Criptografia/Mind your Ps and Qs.md",
@@ -221,20 +229,12 @@
     "picoCTF/Criptografia/Caesar.md",
     "picoCTF/Criptografia/13.md",
     "picoCTF/Criptografia",
-    "picoCTF/Concurso_picoCTF_2026_/Printer Shares.md",
-    "picoCTF/picoCTF - Forensic 4/Operation Orchid.md",
-    "picoCTF/picoCTF - Forensic 4/Sleuthkit Apprentice.md",
-    "picoCTF/picoCTF - Forensic 4/Sleuthkit Intro.md",
-    "picoCTF/picoCTF - Forensic 4/Disk, disk, sleuth!.md",
     "picoCTF/picoCTF - Forensic 4",
     "picoCTF/Forensic_parte_3",
     "Sin nombre/desktop.ini",
     "Sin nombre 1",
     "picoCTF/Concurso_picoCTF_2026_",
     "Sin nombre 3/desktop.ini",
-    "Sin nombre 3",
-    "Sin nombre 2",
-    "picoCTF/picoCTF - Forensic 1",
     "Untitled.canvas"
   ]
 }
