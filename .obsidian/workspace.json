@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9007045859dfd177",
+        "id": "b95d49e8313354ec",
         "type": "tabs",
         "children": [
           {
-            "id": "82e0e9fd6cce1dc1",
+            "id": "668f252fc1e6e170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/REVERSING/vault-door-5.md",
+                "file": "picoCTF/Reversing_par_2/Picker 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vault-door-5"
+              "title": "Picker 4"
             }
           }
         ]
@@ -197,15 +197,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "82e0e9fd6cce1dc1",
+  "active": "668f252fc1e6e170",
   "lastOpenFiles": [
-    "picoCTF/REVERSING/vault-door-4.md",
+    "picoCTF/Reversing_par_2/Picker I.md",
+    "picoCTF/Reversing_par_2/Picker  3.md",
+    "picoCTF/Reversing_par_2/Picker 4.md",
+    "picoCTF/Reversing_par_2/Picker 2.md",
+    "picoCTF/Reversing_par_2/Safe Opener 2.md",
+    "picoCTF/Reversing_par_2/timer.md",
+    "Plantilla.md",
+    "Blame Game d.md",
     "picoCTF/REVERSING/vault-door-5.md",
+    "Sin nombre",
+    "picoCTF/Reversing_par_2",
+    "picoCTF/REVERSING/vault-door-4.md",
     "picoCTF/REVERSING/vault-door-3.md",
     "picoCTF/REVERSING/vault-door-1.md",
     "picoCTF/REVERSING/vault-door-training.md",
     "picoCTF/Criptografia/flags.md",
-    "Plantilla.md",
     "picoCTF/REVERSING/vault-door-training/desktop.ini",
     "picoCTF/REVERSING/vault-door-training",
     "picoCTF/REVERSING",
@@ -221,20 +230,11 @@
     "picoCTF/Criptografia/rsa pop quiz (exp.py).md",
     "repetitions.md",
     "picoCTF/picoCTF - Forensic 4/Operation Oni.md",
-    "picoCTF/Criptografia/The numbers.md",
-    "picoCTF/Criptografia/waves over lambda.md",
-    "picoCTF/Criptografia/Tapping.md",
-    "picoCTF/Criptografia/la cifra de.md",
-    "picoCTF/Criptografia/Easy 1.md",
-    "picoCTF/Criptografia/Caesar.md",
-    "picoCTF/Criptografia/13.md",
     "picoCTF/Criptografia",
     "picoCTF/picoCTF - Forensic 4",
     "picoCTF/Forensic_parte_3",
     "Sin nombre/desktop.ini",
     "Sin nombre 1",
-    "picoCTF/Concurso_picoCTF_2026_",
-    "Sin nombre 3/desktop.ini",
     "Untitled.canvas"
   ]
 }
