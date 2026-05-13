@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "668f252fc1e6e170",
+            "id": "e3ecd265db3536a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing_par_2/Picker 4.md",
+                "file": "picoCTF/Reversing_part3/ams 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Picker 4"
+              "title": "ams 1"
+            }
+          },
+          {
+            "id": "987aa987c8c9ac1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing_part3/ams 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ams 2"
+            }
+          },
+          {
+            "id": "56838bff8cddf2fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing_part3/ams 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ams 3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,18 +226,32 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "668f252fc1e6e170",
+  "active": "56838bff8cddf2fa",
   "lastOpenFiles": [
+    "picoCTF/Reversing_part3/ams 2.md",
+    "picoCTF/Reversing_part3/ams 1.md",
+    "picoCTF/Reversing_part3/ams 3.md",
+    "Plantilla.md",
+    "picoCTF/Forensic_parte_3/WebNet0.md",
+    "picoCTF/Reversing_part3",
+    "picoCTF/Forensic_parte_3/tunn3l_v1s10n.md",
+    "picoCTF/Forensic_parte_3/Matryoshka doll.md",
+    "picoCTF/Forensic_parte_3/MacroHard WeakEdge.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/04- HashingJobApp.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/05 - Python Wrangling.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/06 - Rust fixme 1.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/07 - Rust fixme 2.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web",
+    "picoCTF/Examen_parcial1",
+    "picoCTF/Reversing_par_2/Picker 4.md",
     "picoCTF/Reversing_par_2/Picker I.md",
     "picoCTF/Reversing_par_2/Picker  3.md",
-    "picoCTF/Reversing_par_2/Picker 4.md",
     "picoCTF/Reversing_par_2/Picker 2.md",
     "picoCTF/Reversing_par_2/Safe Opener 2.md",
     "picoCTF/Reversing_par_2/timer.md",
-    "Plantilla.md",
     "Blame Game d.md",
     "picoCTF/REVERSING/vault-door-5.md",
-    "Sin nombre",
     "picoCTF/Reversing_par_2",
     "picoCTF/REVERSING/vault-door-4.md",
     "picoCTF/REVERSING/vault-door-3.md",
@@ -219,22 +262,8 @@
     "picoCTF/REVERSING/vault-door-training",
     "picoCTF/REVERSING",
     "picoCTF/Criptografia/ReadMyCert.md",
-    "picoCTF/Criptografia/HideToSee.md",
-    "picoCTF/Criptografia/basic-mod1.md",
-    "picoCTF/Criptografia/Pixelated.md",
-    "picoCTF/Criptografia/b00tl3gRSA3.md",
-    "picoCTF/Criptografia/b00tl3gRSA2.md",
-    "picoCTF/Criptografia/Mind your Ps and Qs.md",
-    "picoCTF/Criptografia/Mini RSA.md",
-    "picoCTF/Criptografia/interencdec.md",
-    "picoCTF/Criptografia/rsa pop quiz (exp.py).md",
-    "repetitions.md",
-    "picoCTF/picoCTF - Forensic 4/Operation Oni.md",
     "picoCTF/Criptografia",
     "picoCTF/picoCTF - Forensic 4",
-    "picoCTF/Forensic_parte_3",
-    "Sin nombre/desktop.ini",
-    "Sin nombre 1",
     "Untitled.canvas"
   ]
 }
