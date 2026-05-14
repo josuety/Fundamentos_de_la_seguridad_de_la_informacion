@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3ecd265db3536a1",
+            "id": "f96075a6419f4399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing_part3/ams 1.md",
+                "file": "picoCTF/Examen_parcial1/Examen_parcial1_web/SSTI1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ams 1"
-            }
-          },
-          {
-            "id": "987aa987c8c9ac1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Reversing_part3/ams 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ams 2"
-            }
-          },
-          {
-            "id": "56838bff8cddf2fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/Reversing_part3/ams 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ams 3"
+              "title": "SSTI1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,42 +197,42 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "56838bff8cddf2fa",
+  "active": "f96075a6419f4399",
   "lastOpenFiles": [
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/SSTI 2.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/SSTI1.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/SQL Direct.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/Java Code Analysis.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/head-dump.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/findme.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/Cookie Monster Secret Recipe.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_web/Bookmarklet.md",
+    "Plantilla.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/Rust fixme 3.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/Rust fixme 2.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/Rust fixme 1.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/SansAlpha.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/Specialer.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/Python Wrangling.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/HashingJobApp.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/flag_shop.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/FANTASY CTF.md",
+    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/dont-you-love-banners.md",
+    "picoCTF/Reversing_part3/ams 3.md",
     "picoCTF/Reversing_part3/ams 2.md",
     "picoCTF/Reversing_part3/ams 1.md",
-    "picoCTF/Reversing_part3/ams 3.md",
-    "Plantilla.md",
     "picoCTF/Forensic_parte_3/WebNet0.md",
     "picoCTF/Reversing_part3",
     "picoCTF/Forensic_parte_3/tunn3l_v1s10n.md",
     "picoCTF/Forensic_parte_3/Matryoshka doll.md",
     "picoCTF/Forensic_parte_3/MacroHard WeakEdge.md",
-    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/04- HashingJobApp.md",
-    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/05 - Python Wrangling.md",
-    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/06 - Rust fixme 1.md",
-    "picoCTF/Examen_parcial1/Examen_parcial1_general skills/07 - Rust fixme 2.md",
     "picoCTF/Examen_parcial1/Examen_parcial1_general skills",
     "picoCTF/Examen_parcial1/Examen_parcial1_web",
     "picoCTF/Examen_parcial1",
-    "picoCTF/Reversing_par_2/Picker 4.md",
-    "picoCTF/Reversing_par_2/Picker I.md",
-    "picoCTF/Reversing_par_2/Picker  3.md",
-    "picoCTF/Reversing_par_2/Picker 2.md",
-    "picoCTF/Reversing_par_2/Safe Opener 2.md",
-    "picoCTF/Reversing_par_2/timer.md",
-    "Blame Game d.md",
-    "picoCTF/REVERSING/vault-door-5.md",
     "picoCTF/Reversing_par_2",
-    "picoCTF/REVERSING/vault-door-4.md",
-    "picoCTF/REVERSING/vault-door-3.md",
-    "picoCTF/REVERSING/vault-door-1.md",
-    "picoCTF/REVERSING/vault-door-training.md",
-    "picoCTF/Criptografia/flags.md",
     "picoCTF/REVERSING/vault-door-training/desktop.ini",
     "picoCTF/REVERSING/vault-door-training",
     "picoCTF/REVERSING",
-    "picoCTF/Criptografia/ReadMyCert.md",
     "picoCTF/Criptografia",
     "picoCTF/picoCTF - Forensic 4",
     "Untitled.canvas"
